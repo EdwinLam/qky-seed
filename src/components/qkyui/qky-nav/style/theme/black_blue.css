@@ -1,0 +1,97 @@
+
+/**********默认主题 白蓝**********/
+.qkyhead{ background:#515151; border-bottom:none;}
+/*公用*/
+.qkyhead .nodata i{ color:#27b0f2;}
+.qkyhead_input{border: 1px solid #ccc;background-color: #fff;color: #555;-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);}
+
+/**左三样*/
+.qkyhead_menuicon{ color:#c5c5c5;}
+.qkyhead_menuicon:hover{ background:#5e5e5e;color:#fff;}
+.qkyhead_menuicon.active{ background:#5e5e5e;color:#c5c5c5; border:none !important;}
+.qkyhead_line{background-image:linear-gradient(-180deg, #515151 0%, #878787 51%, #515151 100%);}
+.qkyhead_pjname{ color:#27b0f2;}
+
+/**主导航*/
+.qkyhead_nav>li>a{ color:#c5c5c5;}
+.qkyhead_nav>li>a:hover{ background:#5e5e5e; color:#fff;}
+.qkyhead_nav>li.active>a{ background:#27b0f2;color:#fff;}
+.qkyhead_nav>li.active>a:hover{ background:#27b0f2; color:#fff;}
+
+/**右边*/
+.qkyhead_other{ color:#c5c5c5;}
+
+/**消息*/
+.qkyhead_news_badge{color:#fff;background:#ff4e4e;}
+.qkyhead_news_popup{ background:#fff; border:1px solid #d4d4d4;box-shadow:0 2px 4px 0 rgba(0,0,0,0.09);}
+.qkyhead_news_li{ border-bottom:1px solid #e9e9e9;}
+.qkyhead_news_li:hover{background:#f5f5f5;}
+.qkyhead_news_txt label{  color:#333; }
+.qkyhead_news_txt span{color:#737373;}
+.qkyhead_news_appname{color:#737373;}
+.qkyhead_allnaws_check{ color:#333;}
+.qkyhead_allnaws_check:hover{ color:#222;}
+
+/**下拉*/
+.qkyhead_select_menu{ background:#515151; border:1px solid #515151;border: 1px solid rgba(0, 0, 0, .15);}
+.qkyhead_select_menu li a{color: #c5c5c5;}
+.qkyhead_select_menu li a:hover{ background:#5e5e5e; color:#fff;}
+.qkyhead_select_menu li.active a{background:#27b0f2; color:#fff;}
+
+/**个人消息*/
+.qkyhead_infophoto.dist{ background:#c5c5c5;}
+.qkyhead_infophoto i{ color:#515151;}
+.qkyhead_info:hover .qkyhead_infophoto.dist{ background:#fff;}
+.qkyhead_info:hover .qkyhead_infoname{ color:#fff;}
+.qkyhead_info:hover .qkyhead_infophoto i{ color:#515151;}
+.qkyhead_info:hover .qkyhead_sj{ border-top-color:#fff;}
+
+
+/**更多菜单*/
+.qkyhead_more{border:none;}
+.qkyhead_more .qkyhead_line{background-image: linear-gradient(-180deg, #535353 0%, #737373 51%, #535353 100%) !important;}
+
+.qkyhead_more_lli .setup{color:#27b0f2 !important; }
+.qkyhead_more_lli h5{ color:#fff;border-bottom:1px solid #222;}
+.qkyhead_more_lli a{ color:#f5f5f5;}
+.qkyhead_more_lli a:hover{ color:#27b0f2;}
+
+
+/*左边*/
+.qkyhead_more_left{ background:#535353;}
+.qkyhead_appCenter{color:#27b0f2; }
+.qkyhead_appCenter:hover{ background:#333; color:#27b0f2;}
+.qkyhead_appCenter i.app{ color:#38b9f1;}
+
+/*右边*/
+.qkyhead_more_right{ background:#535353;}
+.qkyhead_more_right.two{background:#737373; border-right:1px solid #666;}
+.qkyhead_more_right .allapp_type_li{color:#fff; }
+.qkyhead_more_right .allapp_type_li.active{ background:#737373; color:#27b0f2;}
+.qkyhead_more_right .allapp_li a{color:#f5f5f5;}
+.qkyhead_more_right .allapp_li a:hover{ background:#737373; color:#27b0f2;}
+
+
+/*设置弹窗*/
+
+.qkyhead_modal_content{ background-color:#fff;border: 1px solid #999;border: 1px solid rgba(0, 0, 0, .2);-webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);box-shadow: 0 3px 9px rgba(0, 0, 0, .5);}
+.qkyhead_modal_header{border-bottom: 1px solid #e5e5e5;}
+.qkyhead_modal_header .close  {color: #000;text-shadow: 0 1px 0 #fff;filter: alpha(opacity=20);opacity: .2;}
+.qkyhead_modal_header .close:hover{filter: alpha(opacity=80);opacity: .8;}
+
+.qkyhead_btn{background:#737373; border:1px solid #737373; color:#fff;}
+.qkyhead_btn:hover{ background:#515151;border:1px solid #515151; }
+.qkyhead_btn.ok{color: #fff;border-color: #27b0f2;background-color: #27b0f2;}
+.qkyhead_btn.ok:hover{border-color: #20a9eb;background-color: #20a9eb;}
+
+.qkyhead_modal .setup_box{border-bottom:1px solid #d8d8d8;}
+.qkyhead_modal .setup_cont{ border-right:1px solid #d8d8d8; }
+
+.qkyhead_modal .setup_cont_min i{ color:#333;}
+.qkyhead_modal .setup_cont.right{border-left:1px solid #d8d8d8;}
+.qkyhead_modal .setup_cont .setup_title{ background:#f5f5f5; color:#808080;}
+.qkyhead_modal .setup_ul{background:#fff;}
+.qkyhead_modal .setup_list_ a:hover{ background:#f5f5f5;}
+.qkyhead_modal .setup_list_ a i{ color:#27b0f2;}
+
+
